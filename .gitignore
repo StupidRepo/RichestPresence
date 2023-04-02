@@ -1,0 +1,10 @@
+bin/**
+bin
+.DS_Store
+*.DS_Store
+Folder.DotSettings.user
+*.user
+.idea/**
+.idea
+Discord/**
+Discord
