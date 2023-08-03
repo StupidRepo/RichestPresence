@@ -16,10 +16,6 @@ namespace RichestPresence
                 Details = details,
                 Assets =
                 {
-                    LargeImage = "wobble",
-                    LargeText = "Wobbledogs!",
-                    SmallImage = "bep",
-                    SmallText = "Made with BepInEx!",
                 },
                 Instance = true,
             };
