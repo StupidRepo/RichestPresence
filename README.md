@@ -1,13 +1,6 @@
 # RichestPresence
 A simple C# Discord RPC changer!
 ## How To Use
-1. Download the latest release from [here](https://github.com/StupidRepo/RichestPresence/releases) that corresponds to your operating system.
-2. Extract the ZIP to a folder, e.g. StupidRPC.
-3. Open the folder and run the executable.
-4. Follow the instructions in the program.
-5. Enjoy!
-
-## How To Build
 1. Clone the repository.
 2. Download Discord Game SDK from [here](https://discordapp.com/developers/docs/game-sdk/sdk-starter-guide).
 3. Put the files from the `csharp` folder in the Discord SDK into a new folder in the repository folder called `Discord`.
